@@ -61,3 +61,5 @@ allowed-tools:
 ## 语义说明
 
 本工具不是为了"欺骗"AI 检测器，而是提升真实写作质量——最好的"去 AI 化"是让文字有真实的人类思考和声音。
+
+> 由 tinkerdesk-skills monorepo CI 自动发布维护。
