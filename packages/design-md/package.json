@@ -1,0 +1,20 @@
+{
+  "name": "tinkerdesk-skill-design-md",
+  "version": "1.0.0",
+  "description": "Author/validate/export Google's DESIGN.md token spec files.",
+  "keywords": [
+    "tinkerdesk-skill",
+    "creative"
+  ],
+  "license": "MIT",
+  "author": "Hermes Agent",
+  "private": false,
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}

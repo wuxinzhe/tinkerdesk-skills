@@ -1,0 +1,20 @@
+{
+  "name": "tinkerdesk-skill-research-paper-writing",
+  "version": "1.0.0",
+  "description": "Write ML papers for NeurIPS/ICML/ICLR: design→submit.",
+  "keywords": [
+    "tinkerdesk-skill",
+    "research"
+  ],
+  "license": "MIT",
+  "author": "Hermes Agent",
+  "private": false,
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}

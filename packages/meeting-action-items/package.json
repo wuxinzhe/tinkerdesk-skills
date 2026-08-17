@@ -1,0 +1,20 @@
+{
+  "name": "tinkerdesk-skill-meeting-action-items",
+  "version": "1.0.0",
+  "description": "Turn meeting notes into cited decisions, owners, tickets.",
+  "keywords": [
+    "tinkerdesk-skill",
+    "productivity"
+  ],
+  "license": "MIT",
+  "author": "Hermes Agent",
+  "private": false,
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}

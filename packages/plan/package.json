@@ -1,0 +1,20 @@
+{
+  "name": "tinkerdesk-skill-plan",
+  "version": "1.0.0",
+  "description": "Write a markdown plan to .hermes/plans/; no execution.",
+  "keywords": [
+    "tinkerdesk-skill",
+    "code"
+  ],
+  "license": "MIT",
+  "author": "Hermes Agent",
+  "private": false,
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}

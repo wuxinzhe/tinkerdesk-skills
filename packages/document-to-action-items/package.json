@@ -1,0 +1,20 @@
+{
+  "name": "tinkerdesk-skill-document-to-action-items",
+  "version": "1.0.0",
+  "description": "Extract cited obligations, deadlines, tasks from documents.",
+  "keywords": [
+    "tinkerdesk-skill",
+    "productivity"
+  ],
+  "license": "MIT",
+  "author": "Hermes Agent",
+  "private": false,
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}

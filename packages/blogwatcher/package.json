@@ -1,0 +1,20 @@
+{
+  "name": "tinkerdesk-skill-blogwatcher",
+  "version": "1.0.0",
+  "description": "Monitor blogs and RSS/Atom feeds via blogwatcher-cli tool.",
+  "keywords": [
+    "tinkerdesk-skill",
+    "research"
+  ],
+  "license": "MIT",
+  "author": "Hermes Agent",
+  "private": false,
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}

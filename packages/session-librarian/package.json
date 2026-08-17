@@ -1,0 +1,20 @@
+{
+  "name": "tinkerdesk-skill-session-librarian",
+  "version": "1.0.0",
+  "description": "Organize sessions by prompt: find, rename, archive, prune.",
+  "keywords": [
+    "tinkerdesk-skill",
+    "productivity"
+  ],
+  "license": "MIT",
+  "author": "Hermes Agent",
+  "private": false,
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "tinkerdesk-skill-requesting-code-review",
+  "version": "1.0.0",
+  "description": "Pre-commit review: security scan, quality gates, auto-fix.",
+  "keywords": [
+    "tinkerdesk-skill",
+    "code"
+  ],
+  "license": "MIT",
+  "author": "Hermes Agent",
+  "private": false,
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}

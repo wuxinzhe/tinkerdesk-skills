@@ -1,0 +1,20 @@
+{
+  "name": "tinkerdesk-skill-dogfood",
+  "version": "1.0.0",
+  "description": "Exploratory QA of web apps: find bugs, evidence, reports.",
+  "keywords": [
+    "tinkerdesk-skill",
+    "code"
+  ],
+  "license": "MIT",
+  "author": "Hermes Agent",
+  "private": false,
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}

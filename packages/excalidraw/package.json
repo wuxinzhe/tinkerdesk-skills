@@ -1,0 +1,20 @@
+{
+  "name": "tinkerdesk-skill-excalidraw",
+  "version": "1.0.0",
+  "description": "Hand-drawn Excalidraw JSON diagrams (arch, flow, seq).",
+  "keywords": [
+    "tinkerdesk-skill",
+    "creative"
+  ],
+  "license": "MIT",
+  "author": "Hermes Agent",
+  "private": false,
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}

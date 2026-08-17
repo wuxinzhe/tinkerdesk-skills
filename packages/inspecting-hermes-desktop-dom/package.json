@@ -1,0 +1,20 @@
+{
+  "name": "tinkerdesk-skill-inspecting-hermes-desktop-dom",
+  "version": "1.0.0",
+  "description": "Read the live Hermes desktop DOM/CSS over CDP.",
+  "keywords": [
+    "tinkerdesk-skill",
+    "code"
+  ],
+  "license": "MIT",
+  "author": "Hermes Agent",
+  "private": false,
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}

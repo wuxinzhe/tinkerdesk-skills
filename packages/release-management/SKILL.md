@@ -8,7 +8,7 @@ platforms: [windows, linux, macos]
 metadata:
   hermes:
     tags: [git-workflow, release, environment-isolation, deployment, devops]
-    related_skills: [github-pr-workflow]
+    related: github-pr-workflow
 ---
 
 # 项目发布管理 — 分支策略 & 发版 & 环境隔离

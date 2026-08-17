@@ -1,0 +1,20 @@
+{
+  "name": "tinkerdesk-skill-manim-video",
+  "version": "1.0.0",
+  "description": "Manim CE animations: 3Blue1Brown math/algo videos.",
+  "keywords": [
+    "tinkerdesk-skill",
+    "video"
+  ],
+  "license": "MIT",
+  "author": "Hermes Agent",
+  "private": false,
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}

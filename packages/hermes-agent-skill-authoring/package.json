@@ -1,0 +1,20 @@
+{
+  "name": "tinkerdesk-skill-hermes-agent-skill-authoring",
+  "version": "1.0.0",
+  "description": "Author in-repo SKILL.md files: frontmatter and structure.",
+  "keywords": [
+    "tinkerdesk-skill",
+    "code"
+  ],
+  "license": "MIT",
+  "author": "Hermes Agent",
+  "private": false,
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}

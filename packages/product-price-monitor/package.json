@@ -1,0 +1,20 @@
+{
+  "name": "tinkerdesk-skill-product-price-monitor",
+  "version": "1.0.0",
+  "description": "Watch product, flight, or listing prices; alert on target.",
+  "keywords": [
+    "tinkerdesk-skill",
+    "productivity"
+  ],
+  "license": "MIT",
+  "author": "Hermes Agent",
+  "private": false,
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}

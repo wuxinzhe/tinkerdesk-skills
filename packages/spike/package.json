@@ -1,0 +1,20 @@
+{
+  "name": "tinkerdesk-skill-spike",
+  "version": "1.0.0",
+  "description": "Throwaway experiments to validate an idea before build.",
+  "keywords": [
+    "tinkerdesk-skill",
+    "code"
+  ],
+  "license": "MIT",
+  "author": "Hermes Agent",
+  "private": false,
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}

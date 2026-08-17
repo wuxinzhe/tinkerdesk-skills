@@ -1,0 +1,20 @@
+{
+  "name": "tinkerdesk-skill-grounded-citations",
+  "version": "1.0.0",
+  "description": "Ground answers and documents in cited, verifiable sources.",
+  "keywords": [
+    "tinkerdesk-skill",
+    "research"
+  ],
+  "license": "MIT",
+  "author": "Hermes Agent",
+  "private": false,
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "tinkerdesk-skill-arxiv",
+  "version": "1.0.0",
+  "description": "Search arXiv papers by keyword, author, category, or ID.",
+  "keywords": [
+    "tinkerdesk-skill",
+    "research"
+  ],
+  "license": "MIT",
+  "author": "Hermes Agent",
+  "private": false,
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}

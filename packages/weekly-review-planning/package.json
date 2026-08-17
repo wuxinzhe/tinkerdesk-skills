@@ -1,0 +1,20 @@
+{
+  "name": "tinkerdesk-skill-weekly-review-planning",
+  "version": "1.0.0",
+  "description": "Weekly reset: commitments, stalled work, next-week plan.",
+  "keywords": [
+    "tinkerdesk-skill",
+    "productivity"
+  ],
+  "license": "MIT",
+  "author": "Hermes Agent",
+  "private": false,
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}

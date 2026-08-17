@@ -1,0 +1,20 @@
+{
+  "name": "tinkerdesk-skill-node-inspect-debugger",
+  "version": "1.0.0",
+  "description": "Debug Node.js via --inspect + Chrome DevTools Protocol CLI.",
+  "keywords": [
+    "tinkerdesk-skill",
+    "code"
+  ],
+  "license": "MIT",
+  "author": "Hermes Agent",
+  "private": false,
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}

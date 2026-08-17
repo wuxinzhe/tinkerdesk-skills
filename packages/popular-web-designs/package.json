@@ -1,0 +1,20 @@
+{
+  "name": "tinkerdesk-skill-popular-web-designs",
+  "version": "1.0.0",
+  "description": "54 real design systems (Stripe, Linear, Vercel) as HTML/CSS.",
+  "keywords": [
+    "tinkerdesk-skill",
+    "creative"
+  ],
+  "license": "MIT",
+  "author": "Hermes Agent",
+  "private": false,
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}

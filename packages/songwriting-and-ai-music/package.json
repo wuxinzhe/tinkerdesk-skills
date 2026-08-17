@@ -1,0 +1,20 @@
+{
+  "name": "tinkerdesk-skill-songwriting-and-ai-music",
+  "version": "1.0.0",
+  "description": "Songwriting craft and Suno AI music prompts.",
+  "keywords": [
+    "tinkerdesk-skill",
+    "creative"
+  ],
+  "license": "MIT",
+  "author": "Hermes Agent",
+  "private": false,
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}

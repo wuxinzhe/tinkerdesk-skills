@@ -1,0 +1,20 @@
+{
+  "name": "tinkerdesk-skill-p5js",
+  "version": "1.0.0",
+  "description": "p5.js sketches: gen art, shaders, interactive, 3D.",
+  "keywords": [
+    "tinkerdesk-skill",
+    "creative"
+  ],
+  "license": "MIT",
+  "author": "Hermes Agent",
+  "private": false,
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
