@@ -36,8 +36,6 @@ jobs:
 
       # 逐个发布（自动 patch 版本——避免同版本冲突）
       - name: Publish changed packages
-        if: |
-          hashFiles('/tmp/changed.txt') != ''
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: |
