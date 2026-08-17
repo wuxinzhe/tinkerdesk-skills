@@ -65,3 +65,5 @@ allowed-tools:
 > 由 tinkerdesk-skills monorepo CI 自动发布维护。
 
 > CI pathspec 修复验证。
+
+> 验证 publish 步骤运行（第3次）。
