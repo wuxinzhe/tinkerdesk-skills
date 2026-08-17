@@ -1,0 +1,21 @@
+{
+  "name": "tinkerdesk-skill-release-management",
+  "version": "1.4.1",
+  "description": "项目发布管理：Git 分支策略（main/release/feat）、发版流程、多环境隔离（dev/staging/prod）、Docker 部署方案",
+  "type": "module",
+  "main": "SKILL.md",
+  "keywords": [
+    "tinkerdesk-skill",
+    "code"
+  ],
+  "license": "MIT",
+  "author": "Hermes Agent",
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "LICENSE",
+    "references",
+    "scripts",
+    "templates"
+  ]
+}

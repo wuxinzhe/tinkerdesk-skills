@@ -1,0 +1,21 @@
+{
+  "name": "tinkerdesk-skill-humanizer-zh",
+  "version": "1.0.1",
+  "description": "去除文本中的 AI 生成痕迹——让中文/英文文本更自然、更像人类书写。基于维基百科 AI 写作特征指南，检测并修复夸大象征、宣传语、-ing 肤浅分析、模糊归因、破折号滥用、三段式、AI 词汇、否定排比、过多连接短语。",
+  "type": "module",
+  "main": "SKILL.md",
+  "keywords": [
+    "tinkerdesk-skill",
+    "creative"
+  ],
+  "license": "MIT",
+  "author": "Hermes Agent",
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "LICENSE",
+    "references",
+    "scripts",
+    "templates"
+  ]
+}
