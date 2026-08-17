@@ -30,7 +30,7 @@ jobs:
             # 首次推送——发布全部技能包
             ls packages | sort -u | tee /tmp/changed.txt
           else
-            git diff --name-only "$PREV" HEAD -- 'packages/*' \
+            git diff --name-only "$PREV" HEAD -- 'packages/*/**' \
               | cut -d/ -f2 | sort -u | tee /tmp/changed.txt
           fi
 
